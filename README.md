@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
