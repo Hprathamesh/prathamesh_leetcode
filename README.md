@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -47,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hprathamesh/prathamesh_leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
